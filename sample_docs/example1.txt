@@ -1,0 +1,1 @@
+Artificial intelligence (AI) systems are increasingly used in healthcare to assist clinicians. Studies indicate that decision support tools can reduce diagnostic errors and streamline workflows. However, adoption requires careful evaluation of model bias, data privacy, and interpretability.
