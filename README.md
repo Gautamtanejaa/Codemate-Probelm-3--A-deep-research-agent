@@ -17,19 +17,6 @@ An AI-powered research assistant that can ingest PDFs and text documents, genera
 - **🖥️ Multiple Interfaces**: Both CLI and Streamlit web UI
 - **⚡ Local Processing**: All processing happens locally, no external API calls required
 
-## 🚀 Quick Start for CodeMate Submission
-
-### ⚡ Fast Demo (2 minutes)
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Run the complete demo
-python run_demo.py
-
-# 3. Launch web interface
-streamlit run app.py
-```
 
 ### 📋 Step-by-Step Installation
 
@@ -285,6 +272,7 @@ python cli.py ask "question" --index /path/to/custom/index
 - [Hugging Face Transformers](https://huggingface.co/transformers/) for T5 models
 - [Streamlit](https://streamlit.io/) for the web interface
 - [PyPDF2](https://pypdf2.readthedocs.io/) for PDF processing
+
 
 
 
