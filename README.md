@@ -1,4 +1,4 @@
-# 🔍 Deep Researcher Agent
+# 🔍 KnowledgeSeeker
 
 **CodeMate Submission - AI-Powered Research Assistant**
 
@@ -285,5 +285,6 @@ python cli.py ask "question" --index /path/to/custom/index
 - [Hugging Face Transformers](https://huggingface.co/transformers/) for T5 models
 - [Streamlit](https://streamlit.io/) for the web interface
 - [PyPDF2](https://pypdf2.readthedocs.io/) for PDF processing
+
 
 
