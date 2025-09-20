@@ -4,11 +4,6 @@
 
 An AI-powered research assistant that can ingest PDFs and text documents, generate embeddings locally, index them into a vector database, and allow natural language queries with retrieval + summarization.
 
-## 🎯 Project Status
-✅ **Ready for CodeMate Submission**  
-✅ **All Core Requirements Implemented**  
-✅ **Advanced Features Included**  
-✅ **Clean, Modular Code Architecture**
 
 ## ✨ Features
 
@@ -283,10 +278,6 @@ python cli.py ask "question" --index /path/to/custom/index
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - [sentence-transformers](https://www.sbert.net/) for embedding models
@@ -295,15 +286,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Streamlit](https://streamlit.io/) for the web interface
 - [PyPDF2](https://pypdf2.readthedocs.io/) for PDF processing
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section above
-2. Review the CLI help: `python cli.py --help`
-3. Open an issue on GitHub
-4. Check the documentation for your specific use case
-
----
-
-**Happy Researching! 🔍📚**
