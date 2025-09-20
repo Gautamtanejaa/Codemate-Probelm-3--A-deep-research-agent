@@ -8,7 +8,7 @@ An AI-powered research assistant that can ingest PDFs and text documents, genera
 ## ✨ Features
 
 - **📄 Document Ingestion**: Support for PDF and TXT files with intelligent text chunking
-- **🧠 Local AI Processing**: Uses sentence-transformers for embeddings and T5 models for answer generation
+- **🧠 Local AI Processing**:  Python-based query handling and response generation.Local embeddings with sentence-transformers/all-MiniLM-L6-v2.
 - **🔍 Vector Search**: FAISS-based similarity search for relevant document chunks
 - **💬 Natural Language Queries**: Ask questions in plain English and get AI-generated answers
 - **📊 Document Summarization**: Generate comprehensive summaries of your documents
@@ -272,6 +272,7 @@ python cli.py ask "question" --index /path/to/custom/index
 - [Hugging Face Transformers](https://huggingface.co/transformers/) for T5 models
 - [Streamlit](https://streamlit.io/) for the web interface
 - [PyPDF2](https://pypdf2.readthedocs.io/) for PDF processing
+
 
 
 
